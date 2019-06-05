@@ -1,0 +1,4 @@
+#Thu Feb 14 15:55:38 IST 2019
+base.0=/Volumes/Yogesh/Project/MyApp/Startup/NewWatherReact/newweatherreactnative/android/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
